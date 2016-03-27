@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459057052 source:/home/joyce/Code/Idea/tweetableMathematicalArt/main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
