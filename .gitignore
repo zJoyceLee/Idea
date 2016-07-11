@@ -1,0 +1,9 @@
+# codeblocks
+*.cbp
+*.depend
+bin/
+obj/
+
+# images
+*.ppm
+*.jpg
