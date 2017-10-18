@@ -18,3 +18,9 @@ Let computer work like piano.
 * with Python, Numpy, Scipy and Pygame.
 
 BTW. Amazing!
+
+
+===========
+2017-10-18: Jmeter: Ramp-up Period & Think Time
+----
+* [Blog Address](http://xinshasha.2007.blog.163.com/blog/static/7762627820101212528165/)
