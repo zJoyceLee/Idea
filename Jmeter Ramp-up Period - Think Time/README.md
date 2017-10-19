@@ -23,7 +23,7 @@
 #### Ramp-up Period > Think Time (X > Y)
 
 ###### If X = m*Y m=2, 3, 4, ...
-* In Y second, _X*(Y/N)_ requests have been sent, next Y to X, the rest _(m-1)Y*(X/N)_ threads created, and send _111_ requests per _X/N_ seconds
+* In Y second, _Y*(X/N)_ requests have been sent, next Y to X, the rest _(m-1)Y*(X/N)_ threads created, and send _xxx_ requests per _X/N_ seconds
 
 ###### If X != m*Y m=2, 3, 4, ...
 * xxx
