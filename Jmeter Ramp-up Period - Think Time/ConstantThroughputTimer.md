@@ -22,4 +22,4 @@ Target throughput(in samples per minute): X. This means send one request every 6
 > __Constant Throughput Timer__
 > > * Target throughput(in samples per minute): 20
 
-![example Config](./Img/constant throughput timer example.png)
+![example Config](./Img/constantThroughputTimerExample.png)
