@@ -22,4 +22,4 @@ Target throughput(in samples per minute): X. This means send one request every 6
 > __Constant Throughput Timer__
 > > * Target throughput(in samples per minute): 20
 
-![example Config](https://github.com/zJoyceLee/Idea/blob/master/Jmeter%20Ramp-up%20Period%20-%20Think%20Time/Img/constant%20throughput%20timer%20example.png)
+![example Config](./Img/constant throughput timer example.png)
